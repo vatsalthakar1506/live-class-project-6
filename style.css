@@ -1,0 +1,189 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap");
+
+body {
+  background-color: rgb(248, 243, 243);
+}
+#navbarMonstera {
+  position: relative;
+}
+.logo {
+  position: absolute;
+  top: 60px;
+  left: 45px;
+}
+#navMid {
+  position: relative;
+}
+.navMid0 {
+  position: absolute;
+  left: 300px;
+  top: 40px;
+  padding-bottom: 00px;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.navMid1 {
+  position: absolute;
+  left: 450px;
+  top: 40px;
+  font-size: 20px;
+}
+.navMid2 {
+  position: absolute;
+  left: 650px;
+  top: 40px;
+  font-size: 20px;
+}
+
+.navMid3 {
+  position: absolute;
+  left: 850px;
+  top: 40px;
+  font-size: 20px;
+}
+
+.navMid4 {
+  position: absolute;
+  left: 1050px;
+  top: 40px;
+  font-size: 20px;
+}
+
+#navEnd {
+  position: relative;
+}
+
+.navEnd1 {
+  position: absolute;
+  right: 220px;
+  top: 60px;
+}
+.navEnd2 {
+  position: absolute;
+  right: 150px;
+  top: 60px;
+}
+.navEnd3 {
+  position: absolute;
+  right: 90px;
+  top: 60px;
+}
+
+#midWhole {
+  position: relative;
+}
+#midWholePart1 {
+  position: relative;
+}
+#midWholePart11 {
+  position: absolute;
+  top: 50px;
+}
+#monstera {
+  position: absolute;
+  top: 110px;
+  font-size: 120px;
+  left: 100px;
+  font-family: "Montserrat";
+}
+#imgMain {
+  position: absolute;
+  right: -1px;
+  top: 180px;
+  width: 500px;
+  height: 650px;
+}
+
+#midWholePart12 {
+  position: relative;
+}
+#midWholePart121 {
+  position: absolute;
+  top: 550px;
+  left: 100px;
+  border-radius: 2.5em;
+  background-color: rgb(36, 77, 36);
+  padding: 0.1px 85px 0.1px 35px;
+  color: rgb(223, 212, 212);
+  font-size: 20px;
+}
+#midWholePart122 {
+  position: absolute;
+  top: 30px;
+  left: 225px;
+}
+#midWholePart13 {
+  position: relative;
+}
+.midWholePart13Parts1 {
+  position: absolute;
+  top: 700px;
+  left: 100px;
+}
+.midWholePart13Parts2 {
+  position: absolute;
+  top: 700px;
+  left: 500px;
+}
+.midWholePart13Parts3 {
+  position: absolute;
+  top: 700px;
+  left: 800px;
+}
+.feeding {
+  position: absolute;
+  width: 350px;
+  top: -30px;
+  font-size: 25px;
+  left: 110px;
+}
+.light {
+  position: absolute;
+  width: 350px;
+  top: -30px;
+  font-size: 25px;
+  left: 50px;
+}
+.care {
+  position: absolute;
+  width: 350px;
+  top: -30px;
+  font-size: 25px;
+  left: 65px;
+}
+p {
+  position: absolute;
+  font-size: 12px;
+  width: 145px;
+  top: 50px;
+  color: rgb(121, 121, 117);
+}
+.li1 {
+  position: absolute;
+  top: 290px;
+  left: 100px;
+  font-size: 25px;
+}
+
+.li2 {
+  position: absolute;
+  top: 250px;
+  font-size: 25px;
+  left: 100px;
+}
+.li3 {
+  position: absolute;
+  top: 330px;
+  width: 600px;
+  font-size: 25px;
+  left: 100px;
+}
+
+.li4 {
+  position: absolute;
+  top: 370px;
+  font-size: 25px;
+  width: 600px;
+  left: 100px;
+}
